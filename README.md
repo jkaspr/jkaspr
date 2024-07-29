@@ -1,6 +1,6 @@
 ### Hi, I am Jon 👋
 
-I am a graduate student in computer science transitioning from an engineering/project management background.
+Computer science and analytics with an engineering management background.
 <!--
 **jkaspr/jkaspr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
